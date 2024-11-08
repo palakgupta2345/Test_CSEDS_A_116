@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: green;
+    /* width: 7rem; */
+}
+button{
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: rgb(1, 179, 1);
+    border-radius: 5px;
+}
+button:hover{
+    background-color: blue;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+#logout{
+    background-color: #dc3545;
+}

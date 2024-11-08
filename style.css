@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input{
+    padding: 10px;
+    width: 100%;
+}
+button{
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: rgb(1, 179, 1);
+    border-radius: 5px;
+}
+/* button a{
+    text-decoration: none;
+    color: white;
+} */
+button:hover{
+    background-color: blue;
+}
